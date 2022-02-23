@@ -1,2 +1,2 @@
 # hacked-demo POC
-Hacked by maalik
+Takeover by adnanmalikinfo (hackerone username)
